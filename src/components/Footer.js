@@ -7,7 +7,7 @@ const Footer = class extends React.Component {
       <footer class="footer">
         <div class="content has-text-centered">
           &copy; 2009-{dayjs().year()}{" "}
-          <a href="https://adrw.xyz/">ADRW Digital</a> |
+          <a href="https://adrw.xyz/">ADRW Digital</a> |{" "}
           <a href="https://andrew.fm">Andrew Paradi Alexander</a>
         </div>
       </footer>
