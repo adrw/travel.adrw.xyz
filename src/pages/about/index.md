@@ -4,7 +4,7 @@ path: /about
 title: About our values
 ---
 
-![Taste the flavours of the world](/img/flavor_wheel.jpg)
+![Travel ADRW.XYZ(/img/xyz-travel.png)
 
 ### 4 Weeks
 
