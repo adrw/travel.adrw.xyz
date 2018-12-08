@@ -4,9 +4,12 @@ const dayjs = require("dayjs")
 const Footer = class extends React.Component {
   render() {
     return (
-      <div>
-        &copy; 2009-{dayjs().year()} ADRW Digital | Andrew Paradi Alexander
-      </div>
+      <footer class="footer">
+        <div class="content has-text-centered">
+          &copy; 2009-{dayjs().year()} [ADRW Digital](https://adrw.xyz/) |
+          [Andrew Paradi Alexander](https://andrew.fm)
+        </div>
+      </footer>
     )
   }
 }
