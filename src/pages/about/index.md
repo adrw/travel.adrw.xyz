@@ -14,4 +14,7 @@ We'll be exploring Thailand, Malaysia, Singapore, and Vietnam.
 
 ### 2 Backpacks
 
-Our trip won't be through hostels too much thanks to Airbnb but we still will only be travelling with 1 backpack each. We'll stay nimble and light!
+Our trip won't be through hostels too much thanks to Airbnb but we still will only be traveling with 1 backpack each. We'll stay nimble and light!
+
+### See you soon with some new stories!
+\- Andrew (& Suzie)
