@@ -26,7 +26,14 @@ export default class IndexPage extends React.Component {
                   <Link className="has-text-primary" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
-                  g
+                  <span>&nbsp;&nbsp; | &nbsp;&nbsp;</span>
+                  <small>{post.frontmatter.date}</small>
+                  <span>&nbsp;&nbsp; | &nbsp;&nbsp;</span>
+                  {post.frontmatter.tags.map(tag => (
+                    <span key={tag + `tag`} style={{ padding: "10px" }}>
+                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                    </span>
+                  ))}
                 </p>
                 <p>
                   {post.excerpt}
