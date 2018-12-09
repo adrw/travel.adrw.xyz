@@ -2,7 +2,7 @@
 templateKey: about-page
 title: South East Asia 2018
 ---
-!\[Travel ADRW.XYZ](/img/xyz-travel.png)
+![Travel ADRW.XYZ](/img/xyz-travel.png)
 
 ### 4 Weeks
 
