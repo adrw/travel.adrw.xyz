@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { Link, graphql } from "gatsby"
+import { kebabCase } from "lodash"
 import Layout from "../components/Layout"
 
 export default class IndexPage extends React.Component {
@@ -25,8 +26,7 @@ export default class IndexPage extends React.Component {
                   <Link className="has-text-primary" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
+                  g
                 </p>
                 <p>
                   {post.excerpt}
@@ -70,6 +70,7 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            tags
           }
         }
       }
