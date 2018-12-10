@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: '33 Hours: Billy Bishop -> Montreal -> Shanghai -> Bangkok'
+title: 33 Hours to Bangkok
 date: 2018-12-10T20:46:02.251Z
 description: >-
-  After 33 hours from when we left our apartment, we arrived in our Airbnb in
-  Bangkok. What a day!
+  Billy Bishop -> Montreal -> Shanghai -> Bangkok.  33 hours from when we left
+  our apartment, we arrived in our Airbnb in Bangkok. What a day!
 tags:
   - south-east-Asia-2018
 ---
