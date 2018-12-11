@@ -43,7 +43,7 @@ The rumours of drivers always calling was also true. Thankfully I had disabled c
 
 Inside the app there seems to be integrated translation on the Driver side so he type the local language and I would read English. It worked pretty well but still took over 25 minutes to finally coordinate where he was outside the airport terminal and find him.
 
-Paying with cash worked well as Grab recently moved to only allow payment through their system, no longer supporting Visa or MasterCard.
+Paying with cash worked well as Grab recently moved to only allow payment through their system, no longer supporting Visa or MasterCard. Quoted price when we booked and what we paid was a reasonable 439 Baht (~$18 CAD). 
 
 ## Long day
 
