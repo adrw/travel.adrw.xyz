@@ -45,6 +45,8 @@ Inside the app there seems to be integrated translation on the Driver side so he
 
 Paying with cash worked well as Grab recently moved to only allow payment through their system, no longer supporting Visa or MasterCard. Quoted price when we booked and what we paid was a reasonable 439 Baht (~$18 CAD). 
 
+We’d recommended only converting at the airport 500-600 Baht ($25-30CAD) so you can get to the city and then just withdrawing from ATMs the amount you’ll need for your stay. Exchange rates will likely be better through the ATM then the small airport kiosks. 
+
 ## Long day
 
 ![Suzie learning about our Airbnb](/img/c63d2183-d3f3-4c50-82af-8ec23157f8d4.jpeg)
