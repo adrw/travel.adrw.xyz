@@ -14,3 +14,5 @@ The alley that was so quiet and dark last night when we tried to find our Airbnb
 
 We tried some satay (street meat kebab) and sat down at a corner across from the bank for our first local soup. The corner street food place seemed to be a favourite with local motorcycle taxi drivers. If the locals trust it, we could too!
 
+![First street food and Thai soup!](/img/b690f97a-9615-48dc-b94a-e1bb17c0099f.jpeg)
+
