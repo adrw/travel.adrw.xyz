@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Bangkok Day 2
+title: 'Day 2: Bangkok & Overnight Train to Malaysia'
 date: 2018-12-12T22:40:38.900Z
 description: >-
   A vibrant stroll down bustling alleys of vendors, local busses, and an
