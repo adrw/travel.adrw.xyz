@@ -31,6 +31,16 @@ According to Amber and Matthew, the travel SIM at the airport is the best deal a
 
 *“O Canada, our home and good-cell-planless land...”*
 
+## Lumphini Park
+
+This Central Park of Bangkok was filled with locals going on a run and taking full advantage of the work out playground and even open air gym with weights. 
+
+## Asiatique
+
+This tourist friendly night market still had a good mix of affordable food and every type of clothing or backpack or souvenir you could think of. It was packed with people even on a Tuesday night and has a complimentary shuttle boat that will pick you up from the train station up the river (though we didn’t end up taking that).
+
+Try and find a seat by the river and enjoy the reflection of the Bangkok night cruises as the lights and sounds ripple across the Chao Phraya River. 
+
 ## Grab, the hero we deserve
 Grab, even for its shortfalls in drivers calling you (you don’t have to pick up) and their not supporting regular credit cards... is still much better than taxi.
 
