@@ -11,18 +11,21 @@ tags:
 ## Lunch with Amber and Matthew
 We had the privilege to get connected with Amber and Matthew through the pastor who married Suzie and I. Amber and Matthew have lived all over Europe and now in Thailand as missionaries so we were excited to hear their experience and perspective on the city over lunch. 
 
-Arriving before us with their 7 month old, they were so welcoming wanting to learn about our story and suggesting their favourite dishes at the restaurant, [Le Rêve Garden& Eatery]()
+Arriving before us with their 7 month old, they were so welcoming wanting to learn about our story and suggesting their favourite dishes at the restaurant, [Le Rêve Garden& Eatery](https://goo.gl/maps/yZ5q5d9d1Ss).
 
-Le Rêve Garden&Eatery
-8, 11 Thanon Nang Linchi, Chong Nonsi, Yan Nawa, Krung Thep Maha Nakhon 10120, Thailand
-+66 2 286 3179
-https://goo.gl/maps/yZ5q5d9d1Ss
+We learned a lot from them on life and coming to God with open hands, grateful for what we’re given but not gripping right onto our current circumstances. 
 
-8, Le Rêve Garden&Eatery, 11 Thanon Nang Linchi, Chong Nonsi, Yan Nawa, Krung Thep Maha Nakhon 10120, Thailand
+They gave us many helpedul tips and places to check out for our trip too including where to get a cheap hair cut, a trusted Thai massage parlour, and recommended Lumphini Park, Asiatique night market, and seeing all the over the top Christmas decorations on the side by side malls on Sukhumvit Road. 
 
-## SIM
+Many thanks to them for taking some time out of their life to spend with us. 
 
-According to our friends we met for lunch, the travel SIM at the airport is the best deal around. $400-800 Baht (~$16-32CAD) for 12GB data over 15 days. 
+## $5 Haircut
+
+120 Baht for a haircut from a barber who spoke no English. I think it turned out great!
+
+## Travel SIM
+
+According to Amber and Matthew, the travel SIM at the airport is the best deal around. $400-800 Baht (~$16-32CAD) for 12GB data over 15 days. 
 
 *“O Canada, our home and good-cell-planless land...”*
 
