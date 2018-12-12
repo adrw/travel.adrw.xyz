@@ -23,6 +23,8 @@ Many thanks to them for taking some time out of their life to spend with us.
 
 120 Baht for a haircut from a barber who spoke no English. I think it turned out great!
 
+![120 Baht Barber](/img/f2cd895f-e401-4b04-afa7-b0c7cf1fbb6a.jpeg)
+
 ## Travel SIM
 
 According to Amber and Matthew, the travel SIM at the airport is the best deal around. $400-800 Baht (~$16-32CAD) for 12GB data over 15 days. 
