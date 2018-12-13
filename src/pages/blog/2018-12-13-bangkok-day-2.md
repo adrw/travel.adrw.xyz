@@ -46,6 +46,8 @@ The Bangkok bus routes (including the songthaews are all on Google Maps too so f
 
 Riding the songthaew was an immersive experience riding up close with the rest of the Bangkok traffic, seeing motorcycles weave around you, and all the bustle of street life. 
 
+![Motorcycles!](/img/a073ceb5-50b5-4302-b4d9-78f24ea6ac01.jpeg)
+
 ## Overnight to Malaysia
 
 ![Platform 4](/img/1b56cf1b-b608-4ef3-936f-6016c228a17b.jpeg)
