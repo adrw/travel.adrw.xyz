@@ -24,16 +24,30 @@ tags:
   - Get to coast via train through Arau or Alor Setar / bus / taxi
   - Take ferry to Langkawi Island. 7am - 7pm service every 30 minutes; 1h15 duration.
 
-### Dec 13 - 16
-- Beach time on North coast of Langkawi Island
-- PM: Ferry back to land (Arau). 
-- PM: Train Arau -> Kuala Lampur. KTM Commuter train. Departures: 0723, 0806, 1134, 1308, 1430, 1732, 1824. 5.5 hours.
+### Dec 13 - 15
+- Beach time on North coast of Langkawi Island.
+- 1435 - 1510h: `[FLIGHT] AirAsia AK6247` Langkawi, Malaysia LGH -> Penang, Malaysia PEN
+- Explore George Town, Penang
 
-### Dec 16 - 20
-- Kuala Lampur, Malaysia
+### Dec 16
+- Explore George Town, Penang
+- ??? - ???: `[FLIGHT] ???` Penang, Malaysia PEN -> Kuala Lampur, Malaysia KL?
+- Explore Kuala Lampur
+
+### Dec 17
+- Explore Kuala Lampur
+
+### Dec 18
+- Exolore Kuala Lampur
+- Train to Malacca, Malaysia
+
+### Dec 19
+- Explore Malacca
+- Train to Johor (near Singapore border)
 
 ### Dec 20
-- AM: Take bus to Singapore, arrive noon
+- AM: Take bus to Singapore
+- Explore Singapore
 - 2205h - 2330h: `[FLIGHT] Scoot Air TR868` Singapore SIN -> Bangkok, Thailand BKK
 
 ### Dec 21
