@@ -46,4 +46,6 @@ They were now off to Georgetown and then the Cameron Highlands in Malaysia. We d
 
 The train was loud with vendors coming every few minutes to sell food or drinks. Train staff came by around 6pm to start setting up the beds. This involves turning the facing bench seats into a flat bed, pulling down the upper bunk from the ceiling, and laying out fresh linens.
 
-Suzie and I took our spots in the upper bunks and ended up falling asleep to the rhythm of the train car as it rolled through the near pitch black Thai countryside. 
+Suzie and I took our spots in the upper bunks and ended up falling asleep to the rhythm of the train car as it rolled through the near pitch black Thai countryside.
+
+Two days in Bangkok left us appreciative of a new city and people, and looking forward to when we return.
