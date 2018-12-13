@@ -11,6 +11,8 @@ tags:
 ## A Local Taste
 We decided to explore north of the Chan Road, the major road near our Airbnb. Littered with a variety of shops, restaurants, street food stands, and vendors, there was so much to see and smell.
 
+![Red Thai Curry and deep fried pork bits](/img/91f11d05-5062-463c-8a40-b6ea37c90809.jpeg)
+
 The 25 Baht ($1 CAD) bubble tea was too inexpensive to resist and we tried a delicious red Thai curry and deep fried pork belly bits. From the first bite that curry was... wow!
 
 ![A soi from another place](/img/d6d3dbd5-e997-4fd0-85a7-1e363218f5e8.jpeg)
