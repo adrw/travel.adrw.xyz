@@ -19,6 +19,12 @@ As we reached the end, a friendly man in hand signals warned us to turn around a
 
 That soi felt like another world, seeing people making the best of their circumstances, creating a small business out of any niche or skill to support themselves and family; the hustle was there. 
 
+## Thai Anthony Bordaine
+
+As we were walking back to Chan Road, the main road, we saw the filming of what only can be an up and coming Anthony Bordaine of Thailand!
+
+![Thai Anthony Bordaine](/img/b32a8e6e-ec12-42e9-98ba-77f38a4d9728.jpeg)
+
 ## Ride the Bus
 
 
