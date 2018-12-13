@@ -13,6 +13,8 @@ We decided to explore north of the Chan Road, the major road near our Airbnb. Li
 
 The 25 Baht ($1 CAD) bubble tea was too inexpensive to resist and we tried a delicious red Thai curry and deep fried pork belly bits. From the first bite that curry was... wow!
 
+![A soi from another place](/img/d6d3dbd5-e997-4fd0-85a7-1e363218f5e8.jpeg)
+
 One of the alleys caught my attention as it looked full of raw food stalls for local restaurant or food vendors. We walked down found butchers and produce vendors, clothing stalls, an old electronics shop, and a 3 ton metal stamp press in one store front. Everyone looked at us as if few tourists ventured down their soi (alley).
 
 As we reached the end, a friendly man in hand signals warned us to turn around and head back down a parallel alley so we did. 
