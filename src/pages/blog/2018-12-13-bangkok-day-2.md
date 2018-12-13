@@ -27,7 +27,7 @@ As we were walking back to Chan Road, the main road, we saw the filming of what 
 
 ## Ride the Bus
 
-
+![A big, red, route 75 bus](/img/dbc4c37b-fe0e-41ef-ba9b-8fc60536a672.jpeg)
 
 There are many different categories of buses in Thailand and you can save a lot of Baht if you take them instead of taxis or Grab. 
 
