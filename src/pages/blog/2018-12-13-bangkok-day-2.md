@@ -36,6 +36,8 @@ Riding the songthaew was an immersive experience riding up close with the rest o
 
 ## Overnight to Malaysia
 
+![Platform 4](/img/1b56cf1b-b608-4ef3-936f-6016c228a17b.jpeg)
+
 We boarded train 45 on platform 4, our overnight train to Padang Besar, the border with Malaysia. The train station had beautiful stained glass and a European style to the architecture. 
 
 Riding the train out of Bangkok we saw school kids walking the tracks, small corrugated tin villages under overpasses and by rivers, and a huge new multi-football field long train station being built in Bang Sue. Further out into the country, there were shadowed mountains in the distance at the end of rolling green fields, lush vegetation, a Temple in every town, and even the sparkling King’s summer palace on one hill. 
