@@ -25,7 +25,7 @@ It worked for us! Even though only 1 of our 3 flights today had Suzie and I sitt
 
 Unlike many airports in North America, Shanghai doesn’t let arriving passengers skip customs if they’re taking a connecting flight. 
 
-We had 1.5 hours to practice patience in the customs line 2 for temporary visas but made it through without any issues.
+We had 1.5 hours to practice patience in the customs line (go to number 2 on the left end of the hall) for temporary visas but made it through without any issues.
 
 That being said, our 5 hour layover felt like 40 minutes when you add in customs, check in to print new boarding passes, and security. 
 
