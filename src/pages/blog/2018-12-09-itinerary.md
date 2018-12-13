@@ -13,19 +13,24 @@ tags:
 
 ### Dec 10
 - 2115h - Dec 11, 0050h: `[FLIGHT] Juneyao Airlines 1357` Shanghai, China PVG -> Bangkok, Thailand BKK
-- Explore Bangkok
 
 ### Dec 11
+- Explore Bangkok
+
+### Dec 12
 - AM: Explore Bangkok
 - 1500h - Dec 12, 0853h: Board train to Padang Besar (border town with Malaysia)
 
-### Dec 12
+### Dec 13
 - AM: 
   - Get to coast via train through Arau or Alor Setar / bus / taxi
   - Take ferry to Langkawi Island. 7am - 7pm service every 30 minutes; 1h15 duration.
-
-### Dec 13 - 15
 - Beach time on North coast of Langkawi Island.
+
+### Dec 14
+- Explore Langkawi
+
+### Dec 15
 - 1435 - 1510h: `[FLIGHT] AirAsia AK6247` Langkawi, Malaysia LGH -> Penang, Malaysia PEN
 - Explore George Town, Penang
 
