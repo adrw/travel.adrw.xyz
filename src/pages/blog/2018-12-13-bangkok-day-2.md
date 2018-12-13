@@ -21,6 +21,8 @@ That soi felt like another world, seeing people making the best of their circums
 
 ## Ride the Bus
 
+
+
 There are many different categories of buses in Thailand and you can save a lot of Baht if you take them instead of taxis or Grab. 
 
 - **Red** 7B: No air conditioning. Can be regular buses or the songathaew *“two bench”* back of a pick up truck variety.
@@ -31,6 +33,8 @@ There are many different categories of buses in Thailand and you can save a lot 
 For most buses there will be a person onboard in a blue uniform who will walk around collecting fares and giving change. For the songthaew trucks, you hop on the back and pay the driver the flat fare at the end of the trip through the window.
 
 The Bangkok bus routes (including the songthaews are all on Google Maps too so finding the right bus to get us to the Hua Lamphong train station was a breeze. 
+
+![Songthaew!](/img/a679d2c2-8d45-4929-bb33-7775e6f953da.jpeg)
 
 Riding the songthaew was an immersive experience riding up close with the rest of the Bangkok traffic, seeing motorcycles weave around you, and all the bustle of street life. 
 
