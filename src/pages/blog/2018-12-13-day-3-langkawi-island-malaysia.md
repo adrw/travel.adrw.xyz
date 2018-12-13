@@ -20,6 +20,8 @@ When we got through without any troubles, a helpful Malaysian man approached us 
 
 A young university student aged boy seemed to be listening intently and I asked if he was going there too. He was, and accepted our offer to share a taxi there. Azim-Jon, or John for short, was from Uzbekistan and just recently graduated from Informations Technology studies at a Malaysian university.
 
+![View from the bridge over the tracks](/img/1ef6a772-f24a-4b8c-a20a-c6a20465626f.jpeg)
+
 We headed up over the bridge out of the station and still found ourselves a bit lost on the other side as the cars and trucks rushed past approaching the land border crossing. 
 
 With eerily perfect timing, the friendly Malaysian from earlier showed up and offered to take us to the taxi stand. The three of us followed him as he non-chalantly strolled through bushes, on pipe bridges over deep drainage ditches, all within 100 feet of the border crossing as he led us to the main road and pointed us to the taxi. 
