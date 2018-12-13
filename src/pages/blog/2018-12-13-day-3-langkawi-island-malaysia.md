@@ -38,6 +38,8 @@ At one point, an approaching police motorcycle with flashers approached waving u
 
 We asked John and the driver what this was all about, and they were mum not saying anything.
 
+![Mountains emerge from the field](/img/a10c59fa-9312-477c-973d-21226818dfd8.jpeg)
+
 The lush tropical vegetation was beautiful. Large rock mountains seemed to emerge from the ground in places, some even with carved out caves. 
 
 ## Our home in Langkawi
