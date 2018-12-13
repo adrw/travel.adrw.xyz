@@ -48,7 +48,7 @@ Coming from a North American culture that continues to add trigger warnings to m
 
 The port of Kuah on Langkawi Island has Legends Park which was beautiful and intriguing even as we saw it from just the ferry exit.
 
-We caught a Grab to our Airbnb on the North coast of the island. On arrival, our host showed us the one month old cottage we’d be staying in and even offered to walk down with us to the beach when we asked where it was.
+We caught a Grab to our Airbnb on the North coast of the island. On arrival, our host, Jeff, showed us the one month old cottage we’d be staying in and even offered to walk down with us to the beach when we asked where it was.
 
 Safe to say, I think we’re going to like it here.
 
