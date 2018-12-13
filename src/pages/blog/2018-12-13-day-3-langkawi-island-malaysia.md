@@ -48,7 +48,9 @@ We caught the ferry from Kuala Perlis after trying some local street food. The f
 
 Coming from a North American culture that continues to add trigger warnings to much more tame content, this was a bit of a surprise to see, especially given all the children on the ferry.
 
-The port of Kuah on Langkawi Island has Legends Park which was beautiful and intriguing even as we saw it from just the ferry exit.
+![The Eagle](/img/c56c549b-77e1-442a-8085-57f7043fbccb.jpeg)
+
+The port of Kuah on Langkawi Island has Legends Park which was beautiful and intriguing even as we saw it from just the ferry exit with a soaring eagle overlooking the bay.
 
 We caught a Grab to our Airbnb on the North coast of the island. On arrival, our host, Jeff, showed us the one month old cottage we’d be staying in and even offered to walk down with us to the beach when we asked where it was.
 
