@@ -58,6 +58,8 @@ We sat beside an elderly couple who spoke fluent English and had visited Toronto
 
 They were now off to Georgetown and then the Cameron Highlands in Malaysia. We decided to add Georgetown to our itinerary after his (and Pastor Pye’s back home) recommendation.
 
+![Setting up the sleeping berths](/img/3fa800cd-1ed8-4054-9e02-7165a9d5450b.jpeg)
+
 The train was loud with vendors coming every few minutes to sell food or drinks. Train staff came by around 6pm to start setting up the beds. This involves turning the facing bench seats into a flat bed, pulling down the upper bunk from the ceiling, and laying out fresh linens.
 
 Suzie and I took our spots in the upper bunks and ended up falling asleep to the rhythm of the train car as it rolled through the near pitch black Thai countryside.
