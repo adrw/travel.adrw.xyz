@@ -36,7 +36,7 @@ tags:
 
 ### Dec 16
 - Explore George Town, Penang
-- ??? - ???: `[FLIGHT] ???` Penang, Malaysia PEN -> Kuala Lampur, Malaysia KL?
+- 0920h - 1020h: `[FLIGHT] AK 9153` Penang, Malaysia PEN -> Kuala Lampur, Malaysia KL
 - Explore Kuala Lampur
 
 ### Dec 17
