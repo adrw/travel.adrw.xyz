@@ -14,7 +14,7 @@ tags:
 
 The view from Scarborough Fish & Chips was cinematic. Classic 50s Christmas music, sprawling picture perfect tropical beachfront, and maybe a dozen expats and tourists sitting in the restaurant. It felt like a place that James Bond would escape to for a few months between missions.
 
-![Scarborough Fish & Chips](/img/)
+![Scarborough Fish & Chips](/img/5935af23-011b-4fbc-a257-f888940a6e49.jpeg)
 
 ### A Bridge to Nowhere
 
