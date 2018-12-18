@@ -2,14 +2,14 @@
 templateKey: blog-post
 title: 'Day 4-5: Langkawi'
 date: 2018-12-18T04:20:37.337Z
-description: 'A quiet Friday in Langkawi. '
+description: >-
+  Fridays in Malaysia are quiet as the Muslim majority population, especially in
+  the more ritual Langkawi, close up their shops and restaurants for the day.
+  Even at our Eagleye homestay, their Tamarind Cafe was shuttered so we had to
+  explore the island for our meals. 
 tags:
   - Asia-2018
 ---
-Langkawi
-
-Fridays in Malaysia are quiet as the Muslim majority population, especially in the more ritual Langkawi, close up their shops and restaurants for the day. Even at our Eagleye homestay, their Tamarind Cafe was shuttered so we had to explore the island for our meals. 
-
 ### Scenes from a 007 Restaurant
 
 The view from Scarborough Fish & Chips was cinematic. Classic 50s Christmas music, sprawling picture perfect tropical beachfront, and maybe a dozen expats and tourists sitting in the restaurant. It felt like a place that James Bond would escape to for a few months between missions.
