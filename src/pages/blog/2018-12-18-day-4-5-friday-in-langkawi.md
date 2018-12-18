@@ -1,10 +1,8 @@
 ---
 templateKey: blog-post
-title: 'Day 4-5: Friday in Langkawi'
+title: 'Day 4-5: Langkawi'
 date: 2018-12-18T04:20:37.337Z
-description: >-
-  Fridays in Malaysia are quiet as the Muslim majority population, especially in
-  the more ritual Langkawi, close up their shops and restaurants for the day.
+description: 'A quiet Friday in Langkawi. '
 tags:
   - Asia-2018
 ---
