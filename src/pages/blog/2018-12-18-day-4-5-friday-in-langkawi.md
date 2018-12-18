@@ -43,5 +43,9 @@ But we saw no rising sun anywhere.
 ![Sunrise Behind](/img/)
 
 ### Tamarind Cafe
+Day or night the Tamarind Cafe, just steps from our cottage, was a hub for the Eagleye homestay. The open air cafe built under the shade of a 100 year old Tamarind tree and was a welcome spot anytime of day for guests, and was often where you could find Jeff, the Eagleye Homestay owner.
 
+Our first night there, Jeff the owner, an overworked engineer from Germany, and a lady from Europe sat there most of the night talking, smoking, having the occasional drink, and enjoying the cool evening air as classic disco and rock played softly in the warmly lit cafe.
+
+![Tamarind Vibes](/img/)
 
