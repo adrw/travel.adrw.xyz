@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: 'Day 3: Langkawi Island Malaysia'
+title: 'Day 3: From the Border to Langkawi'
 date: 2018-12-13T09:28:23.100Z
 description: I think we’re going to like it here...
 tags:
   - Asia-2018
 ---
-We had surprisingly good sleep on the overnight train from Bangkok and awoke with little sense of what time it was.
+I had surprisingly good sleep on the overnight train from Bangkok but awoke with little sense of what time it was.
 
 The upper berths don’t have any windows and most of the lower berths had their curtains drawn so periodically I would pop down and check one of the windows at the end of the car to see if it was finally light out yet.
 
