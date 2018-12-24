@@ -40,7 +40,7 @@ Maybe we forgot to check our compass,
 But we saw no rising sun anywhere.
 ```
 
-![Sunrise Behind](/img/)
+![Sunrise Behind](/img/1cefb864-17f4-44c3-bf5e-7ba8d8bba3af.jpeg)
 
 ### Tamarind Cafe
 Day or night the Tamarind Cafe, just steps from our cottage, was a hub for the Eagleye homestay. The open air cafe built under the shade of a 100 year old Tamarind tree and was a welcome spot anytime of day for guests, and was often where you could find Jeff, the Eagleye Homestay owner.
