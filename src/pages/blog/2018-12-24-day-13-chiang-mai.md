@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Day 13: Chiang Mai'
+title: 'Day 13: Chiang Mai Colours'
 date: 2018-12-23T18:05:43.433Z
 description: >-
   The shadows of the women weaving new cloth bounced across the floors, the
