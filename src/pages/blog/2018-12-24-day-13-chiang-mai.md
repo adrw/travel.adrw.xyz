@@ -13,4 +13,6 @@ tags:
 
 Taking over 2 months to weave, the Thai blanket was made in a small village comprising of Catholic refugees from Cambodia and Laos allowed in to Thailand decades ago. 
 
-Friendly dogs and puppies and children played in the street, there was joy in the quiet bustle of the sleepy village. 
+Friendly dogs and puppies and children played in the street, there was joy in the quiet bustle of the sleepy village.
+
+We’re looking forward to appreciating their craftsmanship and the memories of our trip with the blanket in our home. 
