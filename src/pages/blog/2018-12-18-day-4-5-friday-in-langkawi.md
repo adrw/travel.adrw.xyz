@@ -47,5 +47,5 @@ Day or night the Tamarind Cafe, just steps from our cottage, was a hub for the E
 
 Our first night there, Jeff the owner, an overworked engineer from Germany, and a lady from Europe sat there most of the night talking, smoking, having the occasional drink, and enjoying the cool evening air as classic disco and rock played softly in the warmly lit cafe.
 
-![Tamarind Vibes](/img/)
+![Tamarind Vibes](/img/74fc905a-8aec-49c3-a344-03db79abd0ef.jpeg)
 
