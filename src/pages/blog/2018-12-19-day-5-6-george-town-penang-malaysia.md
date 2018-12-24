@@ -15,8 +15,6 @@ The streets are alive, with the smell of food.
 So I will eat once more. 
 ```
 
-### Humans
-
 Our first morning in George Town started with fried chicken, rajuk (fruit with a peanut sauce poured over top), honeydew pudding, and a coconut shake, not bought from regular street vendors, but from university students.
 
 ![University business students at their food stalls](/img/84de6950-269e-463b-b242-8a8cb55359b1.jpeg)
