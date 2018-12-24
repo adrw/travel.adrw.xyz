@@ -24,13 +24,7 @@ Up winding roads and the steepest gondola in the world, you climb hundreds of me
 
 Supported by a single iron support post, suspended above the trees below, looking out over the mountainous dense vegetation and the coast far below, is a curved walkway, a bridge to nowhere.
 
-![Views from a Bridge to Nowhere](/img/)
-
-![Views from a Bridge to Nowhere](/img/)
-
-![Views from a Bridge to Nowhere](/img/)
-
-![Views from a Bridge to Nowhere](/img/)
+![Views from a Bridge to Nowhere](4c40ca2c-5400-4b1b-ab87-05906626bfc2.jpeg)
 
 ### Sunrise Behind
 ```
