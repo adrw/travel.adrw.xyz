@@ -9,6 +9,8 @@ description: >-
 tags:
   - Asia-2018
 ---
-![Thai woven blanket]()
+![Thai woven blanket](/img/b0fe8da6-346d-431d-83d5-78997c5ec389.jpeg)
 
-Taking over 2 months to weave, the Thai blanket was made in a small village comprising of Catholic refugees from Cambodia or Laos. Friendly dogs and puppies roamed the street, one small part of the quiet bustle of the sleepy inlet village. 
+Taking over 2 months to weave, the Thai blanket was made in a small village comprising of Catholic refugees from Cambodia and Laos allowed in to Thailand decades ago. 
+
+Friendly dogs and puppies and children played in the street, there was joy in the quiet bustle of the sleepy village. 
