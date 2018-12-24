@@ -69,6 +69,16 @@ const Navbar = class extends React.Component {
                   <img src={github} alt="Github" />
                 </span>
               </a>
+              <a
+                className="navbar-item"
+                href="http://instagram.com/travel.adrw.xyz"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src="" alt="Instagram" />
+                </span>
+              </a>
             </div>
           </div>
         </div>
