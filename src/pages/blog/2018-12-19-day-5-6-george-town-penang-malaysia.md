@@ -15,6 +15,8 @@ The streets are alive, with the smell of food.
 So I will eat once more. 
 ```
 
+## Business Students Around the World
+
 Our first morning in George Town started with fried chicken, rajuk (fruit with a peanut sauce poured over top), honeydew pudding, and a coconut shake, not bought from regular street vendors, but from university students.
 
 ![University business students at their food stalls](/img/84de6950-269e-463b-b242-8a8cb55359b1.jpeg)
@@ -29,4 +31,14 @@ Malaysia is a world away from Canada but it wasn’t hard to imagine their signs
 
 Though countries do differ in many material ways, talking with the Malaysian business students reminded me that there are still so many things that we can share in common with other humans who live, eat, work, and study thousands of kilometres away.
 
+### Island of Food
 
+Our time in Penang (the island that George Town is on) was lovely, filled with delicious food and old colonial streets filled with small shops and restaurants. 
+
+The streets were noticeably cleaner than Bangkok, as was most of Malaysia.
+
+The food was filled with flavour, many food stands only making a single dish and still having long lines of locals and tourists waiting to eat.
+
+![Joo Hooi Cafe](/img/)
+
+We sat with a family from Singapore in the packed Joo Hooi cafe who had come for a short 3 day vacation and had been looking forward to the food in Penang. As we continued travelling through Malaysia and mentioned that we had been to Penang, most locals mouths began to water as their eyes darted up and they reminisced about the last time they had been to the island known for its excellent cuisine.
