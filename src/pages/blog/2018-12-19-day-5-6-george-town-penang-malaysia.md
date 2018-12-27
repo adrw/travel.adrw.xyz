@@ -42,3 +42,5 @@ The food was filled with flavour, many food stands only making a single dish and
 ![Joo Hooi Cafe](/img/e2588e6f-0100-43dd-acf2-6f26070bb9f0.jpeg)
 
 We sat with a family from Singapore in the packed Joo Hooi cafe who had come for a short 3 day vacation and had been looking forward to the food in Penang. As we continued travelling through Malaysia and mentioned that we had been to Penang, most locals mouths began to water as their eyes darted up and they reminisced about the last time they had been to the island known for its excellent cuisine.
+
+As we boarded our flight to Kuala Lampur, we both longed for more time in such a delicious town. 
