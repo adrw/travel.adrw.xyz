@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Day 7-9: Kuala Lampur'
-date: 2018-12-27T02:44:31.833Z
+date: 2018-12-19T02:44:00.000Z
 description: 'The metropolis that felt as big as Toronto and as busy as New York City. '
 tags:
   - Asia-2018
