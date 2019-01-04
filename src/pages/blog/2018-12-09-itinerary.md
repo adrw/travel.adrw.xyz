@@ -124,5 +124,5 @@ tags:
 ### Jan 4
 
 * 1035h - 1550h: `[FLIGHT] Thai Airways 0664` Bangkok, Thailand BKK -> Shanghai, China PVG
-* 1815h - 1845h: `[FLIGHT] AC788` Shanghai, China PVG -> Montreal YUL
+* 1815h - 1905h: `[FLIGHT] AC0012` Shanghai, China PVG -> Montreal YUL
 * 2030h - 2140h: `[FLIGHT] AC7979` Montreal YUL -> Toronto YTZ
