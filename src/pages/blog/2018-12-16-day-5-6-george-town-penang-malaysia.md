@@ -1,18 +1,19 @@
 ---
 templateKey: blog-post
-title: 'Day 5-7: George Town, Penang, Malaysia'
-date: 2018-12-19T01:17:13.519Z
-description: 'Beautiful streets and delicious food. '
+title: "Day 5-7: George Town, Penang, Malaysia"
+date: 2018-12-16T01:17:13.519Z
+description: "Beautiful streets and delicious food. "
 tags:
   - Asia-2018
 ---
+
 ![](/img/256120c6-40ba-467c-ba95-616223bdfd81.jpeg)
 
 ```
 The streets are alive, with the smell of food.
 With tastes curated over hundreds of years.
 The streets are alive, with the smell of food.
-So I will eat once more. 
+So I will eat once more.
 ```
 
 ## Business Students Around the World
@@ -27,13 +28,13 @@ A dozen students per stall bustled around some taking orders and approaching pas
 
 **As we talked with the business students I was struck by the common humanity of it all. **
 
-Malaysia is a world away from Canada but it wasn’t hard to imagine their signs having golden hawks on them and school colours being purple.  These Malaysian business students were learning and practicing much of the same curriculum that Laurier and other Canadian business students are taught and practicing it with the same hustle, nervousnessness, and excitement found on university campuses across the country. 
+Malaysia is a world away from Canada but it wasn’t hard to imagine their signs having golden hawks on them and school colours being purple. These Malaysian business students were learning and practicing much of the same curriculum that Laurier and other Canadian business students are taught and practicing it with the same hustle, nervousnessness, and excitement found on university campuses across the country.
 
 Though countries do differ in many material ways, talking with the Malaysian business students reminded me that there are still so many things that we can share in common with other humans who live, eat, work, and study thousands of kilometres away.
 
 ### Island of Food
 
-Our time in Penang (the island that George Town is on) was lovely, filled with delicious food and old colonial streets filled with small shops and restaurants. 
+Our time in Penang (the island that George Town is on) was lovely, filled with delicious food and old colonial streets filled with small shops and restaurants.
 
 The streets were noticeably cleaner than Bangkok, as was most of Malaysia.
 
@@ -43,4 +44,4 @@ The food was filled with flavour, many food stands only making a single dish and
 
 We sat with a family from Singapore in the packed Joo Hooi cafe who had come for a short 3 day vacation and had been looking forward to the food in Penang. As we continued travelling through Malaysia and mentioned that we had been to Penang, most locals mouths began to water as their eyes darted up and they reminisced about the last time they had been to the island known for its excellent cuisine.
 
-As we boarded our flight to Kuala Lampur, we both longed for more time in such a delicious town. 
+As we boarded our flight to Kuala Lampur, we both longed for more time in such a delicious town.

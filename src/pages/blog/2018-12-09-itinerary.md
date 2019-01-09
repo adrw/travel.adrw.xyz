@@ -27,7 +27,7 @@ tags:
 
 ### Dec 13
 
-* AM: 
+* AM:
   * Get to coast via train through Arau or Alor Setar / bus / taxi
   * Take ferry to Langkawi Island. 7am - 7pm service every 30 minutes; 1h15 duration.
 * Beach time on North coast of Langkawi Island.
@@ -57,7 +57,7 @@ tags:
 
 ### Dec 19
 
-* Explore Malacca
+* Explore Melaka
 * Bus to Johor (near Singapore border)
 
 ### Dec 20
