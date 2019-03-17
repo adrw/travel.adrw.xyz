@@ -7,6 +7,7 @@ description: >-
   the more ritual Langkawi, close up their shops and restaurants for the day.
   Even at our Eagleye homestay, their Tamarind Cafe was shuttered so we had to
   explore the island for our meals.
+img: /img/4c40ca2c-5400-4b1b-ab87-05906626bfc2.jpeg
 tags:
   - Asia-2018
 ---
@@ -25,7 +26,7 @@ Up winding roads and the steepest gondola in the world, you climb hundreds of me
 
 Supported by a single iron support post, suspended above the trees below, looking out over the mountainous dense vegetation and the coast far below, is a curved walkway, a bridge to nowhere.
 
-![Views from a Bridge to Nowhere](4c40ca2c-5400-4b1b-ab87-05906626bfc2.jpeg)
+![Views from a Bridge to Nowhere](/img/4c40ca2c-5400-4b1b-ab87-05906626bfc2.jpeg)
 
 ### Sunrise Behind
 
