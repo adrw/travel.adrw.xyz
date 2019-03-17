@@ -16,6 +16,22 @@ exports.createPages = ({ actions, graphql }) => {
               slug
             }
             frontmatter {
+              img {
+                childImageSharp {
+                  fluid(maxWidth: 1000) {
+                    base64
+                    tracedSVG
+                    aspectRatio
+                    src
+                    srcSet
+                    srcWebp
+                    srcSetWebp
+                    sizes
+                    originalImg
+                    originalName
+                  }
+                }
+              }
               tags
               templateKey
             }

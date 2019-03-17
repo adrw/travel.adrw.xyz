@@ -3,6 +3,7 @@ templateKey: blog-post
 title: "Day 5-7: George Town, Penang, Malaysia"
 date: 2018-12-16T01:17:13.519Z
 description: "Beautiful streets and delicious food. "
+img: /img/e2588e6f-0100-43dd-acf2-6f26070bb9f0.jpeg
 tags:
   - Asia-2018
 ---

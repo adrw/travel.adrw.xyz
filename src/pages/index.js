@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { Link, graphql } from "gatsby"
+import Img from "gatsby-image"
 import { kebabCase } from "lodash"
 import Layout from "../components/Layout"
 
@@ -22,6 +23,11 @@ export default class IndexPage extends React.Component {
                 style={{ border: "1px solid #333", padding: "2em 4em" }}
                 key={post.id}
               >
+                {post.frontmatter.img ? (
+                  <Img fluid={post.frontmatter.img.childImageSharp.fluid} />
+                ) : (
+                  <span />
+                )}
                 <p>
                   <Link className="has-text-primary" to={post.fields.slug}>
                     {post.frontmatter.title}
@@ -80,6 +86,13 @@ export const pageQuery = graphql`
             templateKey
             date(formatString: "MMMM DD, YYYY")
             description
+            img {
+              childImageSharp {
+                fluid(maxWidth: 1000) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             tags
           }
         }

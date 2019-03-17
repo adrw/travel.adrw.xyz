@@ -6,6 +6,7 @@ description: >-
   The shadows of the women weaving new cloth bounced across the floors, the
   different colours of thread moving in and around each other becoming a
   masterpiece to add to the wall of blankets and scarves.
+img: /img/b0fe8da6-346d-431d-83d5-78997c5ec389.jpeg
 tags:
   - Asia-2018
 ---
